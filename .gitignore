@@ -1,0 +1,10 @@
+data/*_*.json
+static/contacts.csv
+data/calendarific_api_key.dat
+messages.txt
+.idea
+*.pyc
+venv
+test.py
+static/groups.csv
+*.log
